@@ -19,8 +19,8 @@ Our project is a music discovery app that generates personalized playlists based
 
 
 ## Not decided yet
-(List what's still open.) 
-## TODO!
+- How output is shown
+- How users interact with output
 
 
 ## Wrap up
