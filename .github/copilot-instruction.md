@@ -11,7 +11,7 @@ We're a pair of design students in HCDE 310, learning Python and Flask.
 
 
 ## How we like to work
-(How much code at once? How should the AI explain things?)
+We prefer AI to generate code in manageable sections, focusing on one feature or file at a time so we can understand and test each section before moving on. Since we have already established our app's structure, routes, and files, we will use AI to assist with most of the functional code while handling the styling and visual design ourselves. We want AI to include clear comments explaining the purpose of each section, how the logic works, and how different components connect. We will verify the functionality by testing the app ourselves and conducting usability tests, asking participants to think aloud as they navigate the app for the first time. We will use their feedback to make improvements while maintaining creative control over the app's visual appearance and user experience.
 
 
 ## Our project
